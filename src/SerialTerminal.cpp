@@ -1,7 +1,7 @@
 #include "SerialTerminal.h"
 
-terminal::terminaд(){
-  
+terminal::terminal(){
+
 }
 
 int terminal::verCommand(const char *cmd, int len, int count){
