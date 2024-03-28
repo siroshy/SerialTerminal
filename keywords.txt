@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For GyverButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+terminal KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+verCommand KEYWORD2
+verCommand KEYWORD2
+cleanBuf KEYWORD2
+waitBuf KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
