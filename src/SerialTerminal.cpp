@@ -56,7 +56,3 @@ bool terminal::waitBuf(uint32_t timeout) {
   }
   return res;
 }
-
-bool terminal::parseCommand(const char startCommand, const char paramChar, const char praramLinkValue, char * command, argm args){
-  
-}
