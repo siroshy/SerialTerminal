@@ -21,9 +21,6 @@ bool waitBuf(uint32_t timeout);
 // Ждет поступления данных в буфер
 //TRUE - буфер доступен, FALSE - таймаут превышен
 
-bool parseCommand(const char startCommand, const char paramChar, const char praramLinkValue, char * command, argm args);
-// Читает команду из буфера до символа переноса строки и парсит команду
-// на ее имя и лист аргументов вида Key-Value
 
 protected:
 
