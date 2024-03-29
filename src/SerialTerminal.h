@@ -25,4 +25,4 @@ bool waitBuf(uint32_t timeout);
 protected:
 
 
-}
+};
