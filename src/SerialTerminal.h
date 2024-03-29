@@ -28,4 +28,4 @@ bool parseCommand(const char startCommand, const char paramChar, const char prar
 protected:
 
 
-}
+};
